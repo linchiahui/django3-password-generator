@@ -1,4 +1,4 @@
-# Django ToDO List project
+# Django password generator project
 
 ### Features
 
